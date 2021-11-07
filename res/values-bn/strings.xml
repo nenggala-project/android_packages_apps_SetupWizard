@@ -2,6 +2,7 @@
 <!--
      Copyright (C) 2013-2015 The CyanogenMod Project
      Copyright (C) 2017-2020 The LineageOS Project
+               (C) 2021 The Nenggala Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -48,9 +49,9 @@
     <string name="yes">হ্যাঁ</string>
     <string name="data_sim_name">সিম <xliff:g id="sub">%1$d</xliff:g> - <xliff:g id="name">%2$s</xliff:g></string>
     <string name="emergency_call">জরুরী কল</string>
-    <string name="setup_services">LineageOS এর বৈশিষ্ট্যসমূহ</string>
-    <string name="services_explanation" product="tablet">এই সেবা আপনার ট্যাবলেটের ক্ষমতা বাড়াতে কাজ করে। LineageOS\'র অনুসারে তথ্য ব্যবহার করা হবে<xliff:g id="name" example="Privacy Policy">%s </xliff:g>।</string>
-    <string name="services_explanation" product="default">এই সেবা আপনার ফোনের ক্ষমতা বাড়াতে কাজ করে। LineageOS\'র অনুসারে তথ্য ব্যবহার করা হবে<xliff:g id="name" example="Privacy Policy">%s </xliff:g>।</string>
+    <string name="setup_services">Nenggala এর বৈশিষ্ট্যসমূহ</string>
+    <string name="services_explanation" product="tablet">এই সেবা আপনার ট্যাবলেটের ক্ষমতা বাড়াতে কাজ করে। Nenggala\'র অনুসারে তথ্য ব্যবহার করা হবে<xliff:g id="name" example="Privacy Policy">%s </xliff:g>।</string>
+    <string name="services_explanation" product="default">এই সেবা আপনার ফোনের ক্ষমতা বাড়াতে কাজ করে। Nenggala\'র অনুসারে তথ্য ব্যবহার করা হবে<xliff:g id="name" example="Privacy Policy">%s </xliff:g>।</string>
     <string name="services_privacy_policy">গোপনীয়তার নীতি</string>
     <string name="setup_unlock">আনলক</string>
     <string name="setup_require_cyanogen_label"><b>আপনার হিসাবের পাসওয়ার্ড প্রয়োজন</b> যাতে ফ্যাক্টরি রিসেট করার পরেেও আপনার ডিভাইসে ব্যবহার করতে পারেন।</string>

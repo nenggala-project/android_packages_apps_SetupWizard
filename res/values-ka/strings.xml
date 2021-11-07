@@ -2,6 +2,7 @@
 <!--
      Copyright (C) 2013-2015 The CyanogenMod Project
      Copyright (C) 2017-2020 The LineageOS Project
+               (C) 2021 The Nenggala Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -47,8 +48,8 @@
     <string name="settings_lockscreen_setup_details">როგორ გსურთ ეკრანის ჩაკეტვა?</string>
     <string name="lockscreen_setup_title" product="default">დაიცავით თქვენი ტელეფონი</string>
     <string name="lockscreen_setup_summary"><b>დაიცავით მოწყობილობა</b> და ჩართეთ PIN-კოდის, მონახაზის ან პაროლის შეყვანის მოთხოვნა, ჩაკეტილი ეკრანის გასახსნელად</string>
-    <string name="update_recovery_title">Lineage-აღმდგენის განახლება</string>
-    <string name="update_recovery_description">განაახლებს Lineage-აღმდგენს პირველი ჩატვირთვისას, ყოველი განახლების შემდგომ.</string>
+    <string name="update_recovery_title">Nenggala-აღმდგენის განახლება</string>
+    <string name="update_recovery_description">განაახლებს Nenggala-აღმდგენს პირველი ჩატვირთვისას, ყოველი განახლების შემდგომ.</string>
     <string name="update_recovery_warning">აღმდგენი განახლდება გამართვის დასრულებისთანავე. თუ გსურთ, ხელუხლებელი დარჩეს, გათიშეთ ეს შესაძლებლობა.</string>
-    <string name="update_recovery_setting">განახლდეს Lineage-აღმდგენი სისტემასთან ერთად</string>
+    <string name="update_recovery_setting">განახლდეს Nenggala-აღმდგენი სისტემასთან ერთად</string>
 </resources>
