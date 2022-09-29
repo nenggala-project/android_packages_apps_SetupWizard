@@ -53,12 +53,11 @@
     <string name="data_sim_name">SIM <xliff:g id="sub">%1$d</xliff:g> - <xliff:g id="name">%2$s</xliff:g></string>
     <string name="emergency_call">Fövqəladə vəziyyət zəngləri</string>
     <string name="accessibility_settings">Əlçatımlılıq tənzimləmələri</string>
-    <string name="setup_services">Nenggala özəllikləri</string>
-    <string name="services_explanation" product="tablet">Bu xidmətlər planşetinizin qabiliyyətlərini artırar. Verilənlər Nenggala<xliff:g id="name" example="Gizlilik Siyasəti">%s</xliff:g> şərtlərinə uyğun olaraq istifadə ediləcək.</string>
-    <string name="services_explanation" product="default">Bu xidmətlər telefonunuzun qabiliyyətlərini artırar. Verilənlər Nenggala<xliff:g id="name" example="Gizlilik Siyasəti">%s</xliff:g> şərtlərinə uyğun olaraq istifadə ediləcək.</string>
-    <string name="services_privacy_policy">Gizlilik Siyasəti</string>
-    <string name="services_help_improve_cm"><xliff:g id="name" example="Nenggala">%s</xliff:g>u təkmilləşdirməyə kömək edin</string>
-    <string name="services_metrics_label">Nenggala-a diaqnostikanı və istifadə verilənlərini avtomatik göndərərək <xliff:g id="name" example="Help improve Nenggala">%1$s</xliff:g>. Bu məlumatlarda kimliyiniz istifadə edilmir və batereya ömrü, tətbiq performansı və yeni <xliff:g id="name" example="LineageOS">%2$s</xliff:g> xüsusiyyətləri kimi işlərlə məşğul olan komandalara kömək edər.</string>
+    <string name="setup_services">LineageOS özəllikləri</string>
+    <string name="services_pp_explanation">Bu xidmətlər cihazınızın imkanlarını artırır. Verilənlər, <xliff:g id="name" example="LineageOS">%1$s</xliff:g>un gizlilik siyasətinə uyğun olaraq istifadə ediləcək.</string>
+    <string name="services_find_privacy_policy">Gizlilik siyasətini fərqli cihazda <xliff:g id="uri" example="https://lineageos.org/legal">%1$s</xliff:g> ünvanını ziyarət edərək oxuya bilərsiniz</string>
+    <string name="services_help_improve_cm"><xliff:g id="name" example="LineageOS">%s</xliff:g>u təkmilləşdirməyə kömək edin</string>
+    <string name="services_metrics_label">LineageOS-a diaqnostikanı və istifadə verilənlərini avtomatik göndərərək <xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g>. Bu məlumatlarda kimliyiniz istifadə edilmir və batereya ömrü, tətbiq performansı və yeni <xliff:g id="name" example="LineageOS">%2$s</xliff:g> xüsusiyyətləri kimi işlərlə məşğul olan komandalara kömək edər.</string>
     <string name="services_os_nav_keys_label"><b>Avadanlıq düymələri əvəzinə ekran üstü hərəkət düymələrindən istifadə edin.</b></string>
     <string name="setup_unlock">Kilidi aç</string>
     <string name="setup_device_locked">Bu cihaz istifadəçisi tərəfindən kilidlənib.</string>
