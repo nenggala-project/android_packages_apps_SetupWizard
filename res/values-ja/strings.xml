@@ -2,6 +2,7 @@
 <!--
      Copyright (C) 2013-2015 The CyanogenMod Project
      Copyright (C) 2017-2020 The LineageOS Project
+               (C) 2021 The Nenggala Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -80,11 +81,11 @@
     <string name="lockscreen_setup_summary"><b>この端末を保護</b>し、画面のロック解除にPIN、パターン、またはパスワードを必要とする</string>
     <string name="lockscreen_setup_screen_lock_setup">セットアップ</string>
     <string name="intro_restore_title">アプリとデータを復元</string>
-    <string name="intro_restore_subtitle" product="tablet">以前の LineageOS タブレットからのバックアップがある場合は、こちらから復元できます。</string>
-    <string name="intro_restore_subtitle" product="default">以前の LineageOS スマートフォンからのバックアップがある場合は、こちらから復元できます。</string>
+    <string name="intro_restore_subtitle" product="tablet">以前の Nenggala タブレットからのバックアップがある場合は、こちらから復元できます。</string>
+    <string name="intro_restore_subtitle" product="default">以前の Nenggala スマートフォンからのバックアップがある場合は、こちらから復元できます。</string>
     <string name="intro_restore_button">バックアップから復元</string>
-    <string name="update_recovery_title">Lineage Recovery をアップデート</string>
-    <string name="update_recovery_description">毎回のアップデートの最初の起動時に Lineage Recovery をアップデートします</string>
+    <string name="update_recovery_title">Nenggala Recovery をアップデート</string>
+    <string name="update_recovery_description">毎回のアップデートの最初の起動時に Nenggala Recovery をアップデートします</string>
     <string name="update_recovery_warning">設定が完了したらすぐにリカバリーがアップデートされます。そのまま維持したい場合は、この機能を無効にしてください。</string>
-    <string name="update_recovery_setting">OS と一緒に Lineage Recovery をアップデートする</string>
+    <string name="update_recovery_setting">OS と一緒に Nenggala Recovery をアップデートする</string>
 </resources>

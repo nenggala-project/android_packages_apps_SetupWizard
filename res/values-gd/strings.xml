@@ -2,6 +2,7 @@
 <!--
      Copyright (C) 2013-2015 The CyanogenMod Project
      Copyright (C) 2017-2020 The LineageOS Project
+               (C) 2021 The Nenggala Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -80,11 +81,11 @@
     <string name="lockscreen_setup_summary"><b>Dìon an t-uidheam seo</b> agus iarr PIN, pàtran no facal-faire gus a’ ghlas a thoirt far na sgrìn</string>
     <string name="lockscreen_setup_screen_lock_setup">Suidhich</string>
     <string name="intro_restore_title">Aisig aplacaidean is dàta</string>
-    <string name="intro_restore_subtitle" product="tablet">Ma tha lethbhreac-glèidhidh on tablaid LineageOS mu dheireadh agad, ’s urrainn dhut aiseag an-seo.</string>
-    <string name="intro_restore_subtitle" product="default">Ma tha lethbhreac-glèidhidh on fhòn LineageOS mu dheireadh agad, ’s urrainn dhut aiseag an-seo.</string>
+    <string name="intro_restore_subtitle" product="tablet">Ma tha lethbhreac-glèidhidh on tablaid Nenggala mu dheireadh agad, ’s urrainn dhut aiseag an-seo.</string>
+    <string name="intro_restore_subtitle" product="default">Ma tha lethbhreac-glèidhidh on fhòn Nenggala mu dheireadh agad, ’s urrainn dhut aiseag an-seo.</string>
     <string name="intro_restore_button">Aisig o lethbhreac-glèidhidh</string>
-    <string name="update_recovery_title">Ùraich aiseag Lineage</string>
-    <string name="update_recovery_description">Ùraichidh seo aiseag Lineage air a’ chiad bhùtadh às dèidh gach ùrachadh.</string>
+    <string name="update_recovery_title">Ùraich aiseag Nenggala</string>
+    <string name="update_recovery_description">Ùraichidh seo aiseag Nenggala air a’ chiad bhùtadh às dèidh gach ùrachadh.</string>
     <string name="update_recovery_warning">Thèid an t-aiseag ùrachadh cho luath ’s a bhios tu deiseil leis an t-suidheachadh. Ma tha thu airson a chumail mar a bha e, cuir an gleus seo à comas.</string>
-    <string name="update_recovery_setting">Ùraich aiseag Lineage leis an t-siostam obrachaidh</string>
+    <string name="update_recovery_setting">Ùraich aiseag Nenggala leis an t-siostam obrachaidh</string>
 </resources>

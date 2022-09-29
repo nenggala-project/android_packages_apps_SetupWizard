@@ -2,6 +2,7 @@
 <!--
      Copyright (C) 2013-2015 The CyanogenMod Project
      Copyright (C) 2017-2020 The LineageOS Project
+               (C) 2021 The Nenggala Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -63,5 +64,5 @@
     <string name="update_recovery_title">Anovar el recovery de Lineage</string>
     <string name="update_recovery_description">Anueva\'l recovery de Lineage nel primer arrinque de cada anovamientu.</string>
     <string name="update_recovery_warning">El recovery anuévase namás que fine la configuración. Si nun lu quies tocar, desactiva esta carauterística.</string>
-    <string name="update_recovery_setting">Anovar el recovery xunto con LineageOS</string>
+    <string name="update_recovery_setting">Anovar el recovery xunto con Nenggala</string>
 </resources>

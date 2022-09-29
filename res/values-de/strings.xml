@@ -2,6 +2,7 @@
 <!--
      Copyright (C) 2013-2015 The CyanogenMod Project
      Copyright (C) 2017-2020 The LineageOS Project
+               (C) 2021 The Nenggala Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -80,11 +81,11 @@
     <string name="lockscreen_setup_summary"><b>Gerät schützen</b> und PIN, Muster oder Passwort zur Display-Entsperrung verwenden</string>
     <string name="lockscreen_setup_screen_lock_setup">Einrichten</string>
     <string name="intro_restore_title">Apps und Daten wiederherstellen</string>
-    <string name="intro_restore_subtitle" product="tablet">Wenn du eine Datensicherung von deinem letzten LineageOS-Tablet hast, kannst du sie hier wiederherstellen.</string>
-    <string name="intro_restore_subtitle" product="default">Wenn du eine Datensicherung von deinem letzten LineageOS- Telefon hast, kannst du sie hier wiederherstellen.</string>
+    <string name="intro_restore_subtitle" product="tablet">Wenn du eine Datensicherung von deinem letzten Nenggala-Tablet hast, kannst du sie hier wiederherstellen.</string>
+    <string name="intro_restore_subtitle" product="default">Wenn du eine Datensicherung von deinem letzten Nenggala- Telefon hast, kannst du sie hier wiederherstellen.</string>
     <string name="intro_restore_button">Aus Backup wiederherstellen</string>
-    <string name="update_recovery_title">Lineage-Recovery aktualisieren</string>
-    <string name="update_recovery_description">Aktualisiert das Lineage-Recovery-Image beim ersten Start nach jedem Update.</string>
+    <string name="update_recovery_title">Nenggala-Recovery aktualisieren</string>
+    <string name="update_recovery_description">Aktualisiert das Nenggala-Recovery-Image beim ersten Start nach jedem Update.</string>
     <string name="update_recovery_warning">Das Recovery-Image wird aktualisiert, sobald du die Einrichtung abgeschlossen hast. Wenn es unverändert bleiben soll, deaktiviere diese Funktion.</string>
-    <string name="update_recovery_setting">Lineage-Recovery zusammen mit dem Betriebssystem aktualisieren</string>
+    <string name="update_recovery_setting">Nenggala-Recovery zusammen mit dem Betriebssystem aktualisieren</string>
 </resources>

@@ -2,6 +2,7 @@
 <!--
      Copyright (C) 2013-2015 The CyanogenMod Project
      Copyright (C) 2017-2020 The LineageOS Project
+               (C) 2021 The Nenggala Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -80,8 +81,8 @@
     <string name="intro_restore_subtitle" product="tablet">Pokud máte zálohu z\u00a0vašeho posledního tabletu s\u00a0LineageOS, můžete ji obnovit zde.</string>
     <string name="intro_restore_subtitle" product="default">Pokud máte zálohu z\u00a0vašeho posledního telefonu s\u00a0LineageOS, můžete ji obnovit zde.</string>
     <string name="intro_restore_button">Obnovit ze zálohy</string>
-    <string name="update_recovery_title">Aktualizovat Lineage recovery</string>
-    <string name="update_recovery_description">Aktualizace Lineage recovery při prvním spuštění po každé aktualizaci</string>
+    <string name="update_recovery_title">Aktualizovat Nenggala recovery</string>
+    <string name="update_recovery_description">Aktualizace Nenggala recovery při prvním spuštění po každé aktualizaci</string>
     <string name="update_recovery_warning">Oddíl recovery bude aktualizován ihned poté, co dokončíte nastavení. Vypněte tuto funkci, jestliže si přejete ponechat oddíl nezměněný.</string>
-    <string name="update_recovery_setting">Aktualizovat Lineage recovery společně s OS</string>
+    <string name="update_recovery_setting">Aktualizovat Nenggala recovery společně s OS</string>
 </resources>

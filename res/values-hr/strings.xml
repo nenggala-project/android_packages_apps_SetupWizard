@@ -2,6 +2,7 @@
 <!--
      Copyright (C) 2013-2015 The CyanogenMod Project
      Copyright (C) 2017-2020 The LineageOS Project
+               (C) 2021 The Nenggala Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -77,11 +78,11 @@
     <string name="lockscreen_setup_summary"><b>Zaštiti uređaj</b> i zahtijevaj PIN, uzorak ili zaporku za otključavanje zaslona</string>
     <string name="lockscreen_setup_screen_lock_setup">Postavljanje</string>
     <string name="intro_restore_title">Vrati aplikacije i podatke</string>
-    <string name="intro_restore_subtitle" product="tablet">Ako imate sigurnosnu kopiju sa svog posljednjeg LineageOS tableta, možete je vratiti ovdje.</string>
-    <string name="intro_restore_subtitle" product="default">Ako imate sigurnosnu kopiju sa svog posljednjeg LineageOS teleona, možete je vratiti ovdje.</string>
+    <string name="intro_restore_subtitle" product="tablet">Ako imate sigurnosnu kopiju sa svog posljednjeg Nenggala tableta, možete je vratiti ovdje.</string>
+    <string name="intro_restore_subtitle" product="default">Ako imate sigurnosnu kopiju sa svog posljednjeg Nenggala teleona, možete je vratiti ovdje.</string>
     <string name="intro_restore_button">Vrati podatke iz sigurnosne kopije</string>
-    <string name="update_recovery_title">Ažuriraj Lineage Recovery</string>
-    <string name="update_recovery_description">Ažuriraj Lineage Recovery pri prvom pokretanju nakon svakog ažuriranja.</string>
+    <string name="update_recovery_title">Ažuriraj Nenggala Recovery</string>
+    <string name="update_recovery_description">Ažuriraj Nenggala Recovery pri prvom pokretanju nakon svakog ažuriranja.</string>
     <string name="update_recovery_warning">Recovery će se ažurirati čim završite s postavljanjem. Ako ga želite zadržati netaknutim, onemogućite ovu značajku.</string>
-    <string name="update_recovery_setting">Ažuriraj Lineage Recovery zajedno sa OS</string>
+    <string name="update_recovery_setting">Ažuriraj Nenggala Recovery zajedno sa OS</string>
 </resources>

@@ -2,6 +2,7 @@
 <!--
      Copyright (C) 2013-2015 The CyanogenMod Project
      Copyright (C) 2017-2020 The LineageOS Project
+               (C) 2021 The Nenggala Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -80,11 +81,11 @@
     <string name="lockscreen_setup_summary"><b>Bu cihazı qoruyun</b> və ekran kilidini açmaq üçün PIN, forma və ya şifrəni tələb edin</string>
     <string name="lockscreen_setup_screen_lock_setup">Qur</string>
     <string name="intro_restore_title">Tətbiq və verilənləri bərpa edin</string>
-    <string name="intro_restore_subtitle" product="tablet">Son LineageOS planşetinizdən bir nüsxəniz varsa, burada bərpa edə bilərsiniz.</string>
-    <string name="intro_restore_subtitle" product="default">Son LineageOS telefonunuzdan bir nüsxəniz varsa, burada bərpa edə bilərsiniz.</string>
+    <string name="intro_restore_subtitle" product="tablet">Son Nenggala planşetinizdən bir nüsxəniz varsa, burada bərpa edə bilərsiniz.</string>
+    <string name="intro_restore_subtitle" product="default">Son Nenggala telefonunuzdan bir nüsxəniz varsa, burada bərpa edə bilərsiniz.</string>
     <string name="intro_restore_button">Nüsxədən bərpa et</string>
-    <string name="update_recovery_title">Lineage Bərpa Rejimini Yenilə</string>
-    <string name="update_recovery_description">Hər yeniləmədən sonrakı ilk açılışda Lineage Bərpa rejimini yeniləyər.</string>
+    <string name="update_recovery_title">Nenggala Bərpa Rejimini Yenilə</string>
+    <string name="update_recovery_description">Hər yeniləmədən sonrakı ilk açılışda Nenggala Bərpa rejimini yeniləyər.</string>
     <string name="update_recovery_warning">Quraşdırma bitən kimi Bərpa rejimi yeniləcək. Sağlam qalmasını istəyirsinizsə, bu özəlliyi sıradan çıxardın.</string>
-    <string name="update_recovery_setting">ƏS ilə birgə Lineage Bərpa rejimini də yeniləyin</string>
+    <string name="update_recovery_setting">ƏS ilə birgə Nenggala Bərpa rejimini də yeniləyin</string>
 </resources>

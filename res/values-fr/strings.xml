@@ -2,6 +2,7 @@
 <!--
      Copyright (C) 2013-2015 The CyanogenMod Project
      Copyright (C) 2017-2020 The LineageOS Project
+               (C) 2021 The Nenggala Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -78,11 +79,11 @@
     <string name="lockscreen_setup_summary"><b>Protéger l\'appareil</b> et exiger un code, schéma ou mot de passe pour déverrouiller l\'écran</string>
     <string name="lockscreen_setup_screen_lock_setup">Configurer</string>
     <string name="intro_restore_title">Restaurer les applications et les données</string>
-    <string name="intro_restore_subtitle" product="tablet">Si vous avez une sauvegarde de votre précédente tablette LineageOS, vous pouvez la restaurer ici.</string>
-    <string name="intro_restore_subtitle" product="default">Si vous avez une sauvegarde de votre précédent téléphone LineageOS, vous pouvez la restaurer ici.</string>
+    <string name="intro_restore_subtitle" product="tablet">Si vous avez une sauvegarde de votre précédente tablette Nenggala, vous pouvez la restaurer ici.</string>
+    <string name="intro_restore_subtitle" product="default">Si vous avez une sauvegarde de votre précédent téléphone Nenggala, vous pouvez la restaurer ici.</string>
     <string name="intro_restore_button">Restaurer depuis une sauvegarde</string>
-    <string name="update_recovery_title">Mettre à jour la récupération de Lineage</string>
-    <string name="update_recovery_description">Met à jour Lineage Recovery au premier démarrage après chaque mise à jour.</string>
+    <string name="update_recovery_title">Mettre à jour la récupération de Nenggala</string>
+    <string name="update_recovery_description">Met à jour Nenggala Recovery au premier démarrage après chaque mise à jour.</string>
     <string name="update_recovery_warning">La récupération sera mise à jour dès que vous aurez terminé la configuration. Si vous souhaitez la garder intacte, veuillez désactiver cette fonctionnalité.</string>
-    <string name="update_recovery_setting">Mettre à jour Lineage Recovery en même temps que le système d\'exploitation</string>
+    <string name="update_recovery_setting">Mettre à jour Nenggala Recovery en même temps que le système d\'exploitation</string>
 </resources>

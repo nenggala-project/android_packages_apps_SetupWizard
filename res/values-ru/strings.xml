@@ -2,6 +2,7 @@
 <!--
      Copyright (C) 2013-2015 The CyanogenMod Project
      Copyright (C) 2017-2020 The LineageOS Project
+               (C) 2021 The Nenggala Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -80,11 +81,11 @@
     <string name="lockscreen_setup_summary"><b>Защитить это устройство</b> и запрашивать PIN-код, графический ключ или пароль для разблокировки экрана</string>
     <string name="lockscreen_setup_screen_lock_setup">Настройка</string>
     <string name="intro_restore_title">Восстановить приложения и данные</string>
-    <string name="intro_restore_subtitle" product="tablet">Если у вас есть резервная копия, сделанная на другом планшете с LineageOS, вы можете восстановить ее здесь.</string>
-    <string name="intro_restore_subtitle" product="default">Если у вас есть резервная копия, сделанная на другом телефоне с LineageOS, вы можете восстановить ее здесь.</string>
+    <string name="intro_restore_subtitle" product="tablet">Если у вас есть резервная копия, сделанная на другом планшете с Nenggala, вы можете восстановить ее здесь.</string>
+    <string name="intro_restore_subtitle" product="default">Если у вас есть резервная копия, сделанная на другом телефоне с Nenggala, вы можете восстановить ее здесь.</string>
     <string name="intro_restore_button">Восстановить из резервной копии</string>
-    <string name="update_recovery_title">Обновление Lineage Recovery</string>
-    <string name="update_recovery_description">Обновление Lineage Recovery при первом запуске после каждого обновления ОС.</string>
+    <string name="update_recovery_title">Обновление Nenggala Recovery</string>
+    <string name="update_recovery_description">Обновление Nenggala Recovery при первом запуске после каждого обновления ОС.</string>
     <string name="update_recovery_warning">Recovery будет обновлен по завершении установки. Если вы хотите оставить его без изменений, отключите эту функцию.</string>
-    <string name="update_recovery_setting">Обновить Lineage Recovery  вместе с ОС</string>
+    <string name="update_recovery_setting">Обновить Nenggala Recovery  вместе с ОС</string>
 </resources>

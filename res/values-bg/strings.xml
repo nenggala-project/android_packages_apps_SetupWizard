@@ -2,6 +2,7 @@
 <!--
      Copyright (C) 2013-2015 The CyanogenMod Project
      Copyright (C) 2017-2020 The LineageOS Project
+               (C) 2021 The Nenggala Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -77,11 +78,11 @@
     <string name="lockscreen_setup_summary"><b>Защитете у-вото</b> и изисквайте ПИН код, фигура или парола за отключване на екрана</string>
     <string name="lockscreen_setup_screen_lock_setup">Конфигуриране</string>
     <string name="intro_restore_title">Възстановяване на приложения и данни</string>
-    <string name="intro_restore_subtitle" product="tablet">Ако имате резервно копие, направено на друг таблет с LineageOS, можете да го възстановите тук.</string>
-    <string name="intro_restore_subtitle" product="default">Ако имате резервно копие, направено на друг телефон с LineageOS, можете да го възстановите тук.</string>
+    <string name="intro_restore_subtitle" product="tablet">Ако имате резервно копие, направено на друг таблет с Nenggala, можете да го възстановите тук.</string>
+    <string name="intro_restore_subtitle" product="default">Ако имате резервно копие, направено на друг телефон с Nenggala, можете да го възстановите тук.</string>
     <string name="intro_restore_button">Възстановяване от архив</string>
-    <string name="update_recovery_title">Актуализиране на Lineage Recovery</string>
-    <string name="update_recovery_description">Актуализира Lineage Recovery при първо зареждане след всяка актуализация.</string>
+    <string name="update_recovery_title">Актуализиране на Nenggala Recovery</string>
+    <string name="update_recovery_description">Актуализира Nenggala Recovery при първо зареждане след всяка актуализация.</string>
     <string name="update_recovery_warning">Recovery ще се актуализира веднага щом завършите настройката. Ако искате да го запазите непокътнат, деактивирайте тази функция.</string>
-    <string name="update_recovery_setting">Актуализирайте Lineage Recovery заедно с операционната система</string>
+    <string name="update_recovery_setting">Актуализирайте Nenggala Recovery заедно с операционната система</string>
 </resources>

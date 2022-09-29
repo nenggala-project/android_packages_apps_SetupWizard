@@ -2,6 +2,7 @@
 <!--
      Copyright (C) 2013-2015 The CyanogenMod Project
      Copyright (C) 2017-2020 The LineageOS Project
+               (C) 2021 The Nenggala Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -77,11 +78,11 @@
     <string name="lockscreen_setup_summary"><b>Suojaa laitetta</b> avaamalla näytön lukitus PIN-koodin, kuvion tai salasanan avulla</string>
     <string name="lockscreen_setup_screen_lock_setup">Asetusten määritys</string>
     <string name="intro_restore_title">Palauta sovellukset ja tiedot</string>
-    <string name="intro_restore_subtitle" product="tablet">Jos sinulla on varmuuskopio aiemmasta LineageOS-tabletista, voit palauttaa sen tässä.</string>
-    <string name="intro_restore_subtitle" product="default">Jos sinulla on varmuuskopio aiemmasta LineageOS-puhelimesta, voit palauttaa sen tässä.</string>
+    <string name="intro_restore_subtitle" product="tablet">Jos sinulla on varmuuskopio aiemmasta Nenggala-tabletista, voit palauttaa sen tässä.</string>
+    <string name="intro_restore_subtitle" product="default">Jos sinulla on varmuuskopio aiemmasta Nenggala-puhelimesta, voit palauttaa sen tässä.</string>
     <string name="intro_restore_button">Palauta varmuuskopiosta</string>
-    <string name="update_recovery_title">Päivitä Lineage Recovery</string>
-    <string name="update_recovery_description">Päivittää Lineage Recoveryn jokaisen päivityksen jälkeen ensimmäisellä käynnistyskerralla</string>
+    <string name="update_recovery_title">Päivitä Nenggala Recovery</string>
+    <string name="update_recovery_description">Päivittää Nenggala Recoveryn jokaisen päivityksen jälkeen ensimmäisellä käynnistyskerralla</string>
     <string name="update_recovery_warning">Recovery pävitetään kun asennus on valmis. Jos haluat säilyttää sen ennallaan, poista tämä ominaisuus käytöstä.</string>
-    <string name="update_recovery_setting">Päivitä Lineage Recovery käyttöjärjestelmän rinnalla</string>
+    <string name="update_recovery_setting">Päivitä Nenggala Recovery käyttöjärjestelmän rinnalla</string>
 </resources>
